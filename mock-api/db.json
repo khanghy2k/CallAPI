@@ -1,0 +1,26 @@
+{
+  "users": [],
+  "students": [
+    {
+      "id": "SV01",
+      "fullname": "Khang Hy",
+      "gender": true,
+      "age": 24,
+      "email": "khanghy2k@gmail.com"
+    },
+    {
+      "id": "SV02",
+      "fullname": "Đào tạo",
+      "gender": true,
+      "age": 24,
+      "email": "khanghy@gmail.com"
+    },
+    {
+      "id": "SV04",
+      "fullname": "asdadad",
+      "gender": true,
+      "age": 25,
+      "email": "asd@gmail.com"
+    }
+  ]
+}
